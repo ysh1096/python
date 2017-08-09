@@ -1,3 +1,2 @@
 # python
-python
-Python practice
+python practice
